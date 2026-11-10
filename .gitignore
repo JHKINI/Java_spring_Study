@@ -1,0 +1,9 @@
+# 빌드 결과물
+target/
+*.class
+*.zip
+
+# IDE 설정
+.idea/
+*.iml
+.metadata/
